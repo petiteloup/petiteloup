@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building knowledge in Linux, Wireshark, NMAP, etc. How to become the ultimate ethical hacker!
+- 🔭 I’m currently working on building knowledge in Linux, Wireshark, NMAP, and how to become the ultimate ethical hacker!
 - 🌱 I’m currently learning applied cybersecurity, Python, Linux, PowerShell, all the fundamentals. 
-- 👯 I’m looking to collaborate on any small projects involved security that includes confidentiality, integrity and authenticity of a document, website, etc. 
 - 😄 Pronouns: She/Her/They
+
+Thanks for visiting! 
 <!--
 **petiteloup/petiteloup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
