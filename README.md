@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building knowledge in Linux, Wireshark, NMAP, and how to become the ultimate ethical hacker!
-- 🌱 I’m currently learning applied cybersecurity, Python, Linux, PowerShell, all the fundamentals. 
+- 🔭 I’m currently working on building knowledge in Linux, Wireshark, GoLang, Azure Fundamentals, and how to become the ultimate ethical hacker!
+- 🌱 I’m learning cybersecurity (always and forever), Python, Linux, and GoLang. 
 - 😄 Pronouns: She/Her/They
+- ⚡ Fun fact: I am very good at making ice cream!
+- 💬 Ask me about what I am working on! 
 
 Thanks for visiting! 
 
