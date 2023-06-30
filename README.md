@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a top secret application that I am not ready to share yet. 
 - 🌱 I’m learning cybersecurity (always and forever), Python, Linux, and GoLang. 
 - 😄 Pronouns: She/Her/They
-- ⚡ Fun fact: I am very good at making ice cream!
+- ⚡ Fun fact: I am very good at making ice cream and LOVE doing CTFs!
 - 💬 Ask me about what I am working on! 
 
 Thanks for visiting! 
