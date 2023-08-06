@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a top secret application that I am not ready to share yet. 
-- 🌱 I’m learning cybersecurity (always and forever), Python, Linux, and GoLang. 
+- 🔭 I’m currently working on a top secret personal project that I am not ready to share yet. 
+- 🌱 I’m learning cybersecurity (always and forever), Python and Linux. 
 - 😄 Pronouns: She/Her/They
 - ⚡ Fun fact: I am very good at making ice cream and LOVE doing CTFs!
-- 💬 Ask me about what I am working on! 
+- 💬 Ask me about what I am working on! But not the top secret personal project :)
 
 Thanks for visiting! 
 
